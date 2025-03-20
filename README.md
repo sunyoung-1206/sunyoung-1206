@@ -5,7 +5,7 @@
   <img
     src="https://render.gitanimals.org/lines/sunyoung-1206"
     width="900"
-    height="120"
+    height="300"
   />
 </a>
   
