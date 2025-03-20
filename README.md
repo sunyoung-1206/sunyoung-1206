@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sunyoung-1206&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sunyoung-1206"
+    width="900"
+    height="120"
+  />
+</a>
+  
 <!--
 **sunyoung-1206/sunyoung-1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
